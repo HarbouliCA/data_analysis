@@ -14,6 +14,7 @@ Through this course, I have gained expertise in the following technologies and s
 6. Git
 7. PowerBi
 8. SQL
+9. Matplotlib
 
 
 **List of projects:**
