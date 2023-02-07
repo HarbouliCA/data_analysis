@@ -17,10 +17,10 @@ Through this course, I have gained expertise in the following technologies and s
 
 
 **List of projects:**
-1. [Taxi in NYC](https://github.com/nktnlx/data_analysis_course/tree/main/1_taxi_in_nyc) -- analising NYC taxi orders with Pandas. Read_csv, rename, groupby, agg, query, sort_values, idxmax, idxmin, value_counts, pivot methods were used for **Exploratory Data Analysis**.
-2. [Hotel Bookings](https://github.com/nktnlx/data_analysis_course/tree/main/2_hotel_bookings) -- analising hotel bookings with Pandas. Read_csv, info, rename, groupby, agg, query, sort_values, idxmax, idxmin, value_counts, pivot methods were used for Exploratory Data Analysis. Customers **Churn rate** was calculated.  
-3. [User Logs](https://github.com/nktnlx/data_analysis_course/tree/main/3_user_logs) -- analising customers data. Finding the most popular platform and the most active users. Visualizing data with **Seaborn** distplot, barplot and countplot methods.       
-4. [Taxi in Peru](https://github.com/nktnlx/data_analysis_course/tree/main/4_taxi_peru) -- analising  taxi orders in Peru with Pandas. An Exploratory Data Analysis was performed. Drivers' score, passengers' score, **DAU** and **MAU** metrics were calculated and plotted with Seaborn.
+1. [how-data-analysis-saved-lives-in-1854.ipynb](https://github.com/HarbouliCA/data_analysis/blob/main/02_How_data_analysis_saved_lives_in_1854/how-data-analysis-saved-lives-in-1854.ipynb) -- how-data-analysis-saved-lives-in-1854.ipynb with Pandas. **Exploratory Data Analysis** and **Data Viz**
+1. [how-data-analysis-saved-lives-in-1854.ipynb](https://github.com/HarbouliCA/data_analysis/blob/main/02_How_data_analysis_saved_lives_in_1854/how-data-analysis-saved-lives-in-1854.ipynb) -- how-data-analysis-saved-lives-in-1854.ipynb with Pandas. **Exploratory Data Analysis** and **Data Viz** 
+1. [how-data-analysis-saved-lives-in-1854.ipynb](https://github.com/HarbouliCA/data_analysis/blob/main/02_How_data_analysis_saved_lives_in_1854/how-data-analysis-saved-lives-in-1854.ipynb) -- how-data-analysis-saved-lives-in-1854.ipynb with Pandas. **Exploratory Data Analysis** and **Data Viz**       
+
 
 
 It is my hope that this repository will assist you in evaluating my coding, data analytics, and SQL capabilities, or simply provide an enjoyable experience as you browse through it.
