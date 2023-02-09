@@ -5,6 +5,11 @@ Using the power of pandas and data visualization techniques, I will delve into t
 
 This project serves as a showcase of my skills in data analysis and visualization.
 
+Project file : [how-data-analysis-saved-lives-in-1854.ipynb](https://github.com/HarbouliCA/data_analysis/blob/main/02_How_data_analysis_saved_lives_in_1854/how-data-analysis-saved-lives-in-1854.ipynb)
+
+![Map01](https://github.com/HarbouliCA/data_analysis/blob/main/02_How_data_analysis_saved_lives_in_1854/map2.JPG)
+![Map02](https://github.com/HarbouliCA/data_analysis/blob/main/02_How_data_analysis_saved_lives_in_1854/map.JPG)
+![Scatter](https://github.com/HarbouliCA/data_analysis/blob/main/02_How_data_analysis_saved_lives_in_1854/scatterDate.JPG)
 --------------------------------------------
 Fill free to contact me via anass.harbouli.ca@gmal.com  
 via linkedin twitter: https://www.linkedin.com/in/anass-harbouli-5b304810b/   
