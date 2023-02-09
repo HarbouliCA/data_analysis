@@ -4,7 +4,7 @@ Pandas is then used to manipulate and clean the data, making it more readable an
 The goal of this project is to demonstrate the ability to gather and prepare data from the web using these powerful tools. 
 The resulting data can be used for a variety of purposes, including generating insights and making data-driven decisions.
 
-
+Project file : Scrapping_and_Cleaning_Data.ipynb
 --------------------------------------------
 Fill free to contact me via anass.harbouli.ca@gmal.com  
 via linkedin twitter: https://www.linkedin.com/in/anass-harbouli-5b304810b/   
