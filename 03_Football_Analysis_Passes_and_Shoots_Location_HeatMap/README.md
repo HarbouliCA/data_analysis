@@ -8,6 +8,7 @@ Project file : [Football_Analysis_Passes-Location-Heatmap.ipynb](https://github.
 ![Football_Analysis](https://github.com/HarbouliCA/data_analysis/blob/main/03_Football_Analysis_Passes_and_Shoots_Location_HeatMap/Passes_barchart.JPG)
 ![Football_Analysis](https://github.com/HarbouliCA/data_analysis/blob/main/03_Football_Analysis_Passes_and_Shoots_Location_HeatMap/passes_pitch_heatmap.png)
 ![Football_Analysis](https://github.com/HarbouliCA/data_analysis/blob/main/03_Football_Analysis_Passes_and_Shoots_Location_HeatMap/passes_pitch.png)
+![Football_Analysis](https://github.com/HarbouliCA/data_analysis/blob/main/03_Football_Analysis_Passes_and_Shoots_Location_HeatMap/Pitch_of_team_shoots.png)
 --------------------------------------------
 Fill free to contact me via anass.harbouli.ca@gmal.com  
 via linkedin twitter: https://www.linkedin.com/in/anass-harbouli-5b304810b/   
