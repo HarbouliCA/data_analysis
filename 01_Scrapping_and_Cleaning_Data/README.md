@@ -5,6 +5,11 @@ The goal of this project is to demonstrate the ability to gather and prepare dat
 The resulting data can be used for a variety of purposes, including generating insights and making data-driven decisions.
 
 Project file : [Scrapping_and_Cleaning_Data.ipynb](https://github.com/HarbouliCA/data_analysis/blob/main/01_Scrapping_and_Cleaning_Data/Scrapping_and_Cleaning_Data.ipynb)
+
+![Corr](https://github.com/HarbouliCA/data_analysis/blob/main/01_Scrapping_and_Cleaning_Data/Corr.JPG)
+![Scatter](https://github.com/HarbouliCA/data_analysis/blob/main/01_Scrapping_and_Cleaning_Data/scatter.JPG) <br>
+![BoxPlot](https://github.com/HarbouliCA/data_analysis/blob/main/01_Scrapping_and_Cleaning_Data/Boxplot.JPG)
+
 --------------------------------------------
 Fill free to contact me via anass.harbouli.ca@gmal.com  
 via linkedin twitter: https://www.linkedin.com/in/anass-harbouli-5b304810b/   
