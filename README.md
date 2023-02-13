@@ -25,3 +25,8 @@ Through this course, I have gained expertise in the following technologies and s
 
 
 It is my hope that this repository will assist you in evaluating my coding, data analytics, and SQL capabilities, or simply provide an enjoyable experience as you browse through it.
+
+--------------------------------------------
+Fill free to contact me via anass.harbouli.ca@gmal.com  
+via linkedin twitter: https://www.linkedin.com/in/anass-harbouli-5b304810b/   
+And here on github: [github.com/nktnlx ](https://github.com/HarbouliCA)
