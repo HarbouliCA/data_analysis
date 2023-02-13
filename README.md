@@ -18,9 +18,9 @@ Through this course, I have gained expertise in the following technologies and s
 
 
 **List of projects:**
-1. [scrapping-cleaning-data-futwiz.ipynb](https://github.com/HarbouliCA/data_analysis/blob/main/01_Scrapping_Cleaning_Data_Futwiz/scrapping-cleaning-data-futwiz.ipynb) -- Scrapping & Cleaning Futwiz Data using BeautifulSoup. **Scraping & Exploratory Data Analysis** and **Exploratory Data Analysis**
-1. [how-data-analysis-saved-lives-in-1854.ipynb](https://github.com/HarbouliCA/data_analysis/blob/main/02_How_data_analysis_saved_lives_in_1854/how-data-analysis-saved-lives-in-1854.ipynb) -- how-data-analysis-saved-lives-in-1854.ipynb with Pandas. **Exploratory Data Analysis** and **Data Viz** 
-1. [how-data-analysis-saved-lives-in-1854.ipynb](https://github.com/HarbouliCA/data_analysis/blob/main/02_How_data_analysis_saved_lives_in_1854/how-data-analysis-saved-lives-in-1854.ipynb) -- how-data-analysis-saved-lives-in-1854.ipynb with Pandas. **Exploratory Data Analysis** and **Data Viz**       
+1. [scrapping-cleaning-data-futwiz.ipynb](https://github.com/HarbouliCA/data_analysis/blob/main/01_Scrapping_Cleaning_Data_Futwiz/scrapping-cleaning-data-futwiz.ipynb) -- Scrapping & Cleaning Futwiz Data using BeautifulSoup. **Scraping & Exploratory Data Analysis**
+1. [how-data-analysis-saved-lives-in-1854.ipynb](https://github.com/HarbouliCA/data_analysis/blob/main/02_How_data_analysis_saved_lives_in_1854/how-data-analysis-saved-lives-in-1854.ipynb) -- John Snow and cholera case study with Pandas. **Exploratory Data Analysis** and **Data Viz** 
+1. [Football_Analysis_Passes-Location-Heatmap.ipynb](https://github.com/HarbouliCA/data_analysis/blob/main/03_Football_Analysis_Passes_and_Shoots_Location_HeatMap/Football_Analysis_Passes-Location-Heatmap.ipynb) --  Football Analysis with Pandas. **Exploratory Data Analysis** and **Data Viz**       
 
 
 
